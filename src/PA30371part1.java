@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class PA30371part1 {
-    public static void main(String[] args) {
+    public static void main(String [] args) {
 
         int [] intArray = new int [3];
         intArray [0] = 1;
